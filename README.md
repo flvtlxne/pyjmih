@@ -1,5 +1,6 @@
 # pyjmih
 use this shit to SHAKALIZE your pictures
+NOW WITH GUI!!!
 
 # Dependencies:
 
