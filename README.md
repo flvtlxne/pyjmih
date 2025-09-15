@@ -1,7 +1,7 @@
 # pyjmih
 use this shit to SHAKALIZE your pictures
 
-Dependencies:
+# Dependencies:
 
 sudo apt update
 sudo apt install -y python3-tk
